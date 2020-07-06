@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DurationCountingDemo</string>
+    <string name="route_act">跳转页面</string>
+</resources>
